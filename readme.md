@@ -1,6 +1,3 @@
-Here’s a polished `README.md` for your Todo List API application:
-
-```markdown
 # Todo List API
 
 ## Description
@@ -117,7 +114,6 @@ Feel free to open issues or submit pull requests for improvements or bug fixes.
 **Author**: Andrii Stryzhak  
 **Email**: andriystrizhakpetrov@gmail.com  
 **GitHub**: [andriystrizhak](https://github.com/andriystrizhak)
-```
 
 ### Key Sections:
 
