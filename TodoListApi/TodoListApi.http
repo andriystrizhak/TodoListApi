@@ -1,0 +1,44 @@
+@TodoListApi_HostAddress = http://localhost:5238
+
+### Get all todo items
+GET {{TodoListApi_HostAddress}}/api/todo
+Accept: application/json
+
+###
+  
+### Get todo item by ID (replace {id} with an actual item ID)
+GET {{TodoListApi_HostAddress}}/api/todo/1
+Accept: application/json
+
+###
+
+### Create a new todo item
+POST {{TodoListApi_HostAddress}}/api/todo
+Content-Type: application/json
+
+{
+  "title": "New Task",
+  "description": "This is a new task description",
+  "isComplete": false
+}
+
+###
+
+### Update an existing todo item (replace {id} with an actual item ID)
+PUT {{TodoListApi_HostAddress}}/api/todo/1
+Content-Type: application/json
+
+{
+  "id": 1,
+  "title": "Updated Task",
+  "description": "Updated task description",
+  "isComplete": true
+}
+
+###
+
+### Delete a todo item (replace {id} with an actual item ID)
+DELETE {{TodoListApi_HostAddress}}/api/todo/1 
+Accept: application/json
+
+###
