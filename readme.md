@@ -129,15 +129,15 @@ Feel free to open issues or submit pull requests for improvements or bug fixes.
 
 ## Task Feedback
 
-It was **a bit difficult** to complete the task because of a somewhere outdated model knowledges, necessity to describe whole context of task and to notify for every change I have made to code.
+- It was **a bit difficult** to complete the task because of a somewhere outdated model knowledges, necessity to describe whole context of task and to notify for every change I have made to code.
 
-It took approximately **3-4 hours** to complete the task and fulfill additional requirements
+- It took approximately **3-4 hours** to complete the task and fulfill additional requirements
  
-There some problems with **config files (connection string)** and with **tests code** after generation, but in general code was fully usable.
+- There some problems with **config files (connection string)** and with **tests code** after generation, but in general code was fully usable.
 
-**I faced some problems during completion of the task:**
-  *Hot Reload Issues*: Problems with applying changes due to unsupported Hot Reload features, requiring manual restarts of the application.
-  *Entity Framework Null Handling*: Challenges with handling null values and exceptions in EF Core methods, requiring adjustments in error handling.
-  *Test Configuration*: Issues with mocking and configuring dependencies for unit tests, leading to additional setup and adjustments.
-  *Code Adaptation*: Necessary modifications to auto-generated code to ensure compatibility with project requirements and existing architecture.
-  *Controller Testing*: Difficulties in properly mocking and testing controller actions, including handling exceptions and ensuring accurate test outcomes.
+- **I faced some problems during completion of the task:**
+  - *Hot Reload Issues*: Problems with applying changes due to unsupported Hot Reload features, requiring manual restarts of the application.
+  - *Entity Framework Null Handling*: Challenges with handling null values and exceptions in EF Core methods, requiring adjustments in error handling.
+  - *Test Configuration*: Issues with mocking and configuring dependencies for unit tests, leading to additional setup and adjustments.
+  - *Code Adaptation*: Necessary modifications to auto-generated code to ensure compatibility with project requirements and existing architecture.
+  - *Controller Testing*: Difficulties in properly mocking and testing controller actions, including handling exceptions and ensuring accurate test outcomes.
