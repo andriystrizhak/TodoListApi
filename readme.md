@@ -87,11 +87,11 @@ To run the unit tests:
 
 ## API Endpoints
 
-- **GET /api/todo**: Retrieve all todo items.
-- **GET /api/todo/{id}**: Retrieve a specific todo item by ID.
-- **POST /api/todo**: Create a new todo item.
-- **PUT /api/todo/{id}**: Update an existing todo item by ID.
-- **DELETE /api/todo/{id}**: Delete a todo item by ID.
+- **`GET /api/todo`**: Retrieve all todo items.
+- **`GET /api/todo/{id}`**: Retrieve a specific todo item by ID.
+- **`POST /api/todo`**: Create a new todo item.
+- **`PUT /api/todo/{id}`**: Update an existing todo item by ID.
+- **`DELETE /api/todo/{id}`**: Delete a todo item by ID.
 
 ## Swagger Documentation
 
